@@ -30,3 +30,6 @@
 - speedhack
 - player teleport
 - triggerbot
+
+## contact
+- should we release this today or no?
